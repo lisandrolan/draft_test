@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "draft-js": "^0.10.5",
+    "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.8.4",
     "es6-shim": "^0.35.4",
     "html-to-draftjs": "^1.4.0",
