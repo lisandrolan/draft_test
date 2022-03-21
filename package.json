@@ -5,7 +5,7 @@
   "dependencies": {
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.4",
-    "es6-shim": "^0.35.4",
+    "es6-shim": "^0.35.6",
     "html-to-draftjs": "^1.4.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
